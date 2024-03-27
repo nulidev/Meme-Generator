@@ -8,8 +8,6 @@ A simple react application to make your own memes.
 
 Images Collected from the [ImgFlip API](https://api.imgflip.com).
 
-Inspired by [Bob Ziroll](https://twitter.com/bobziroll).
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Sample Images
