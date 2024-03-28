@@ -1,3 +1,4 @@
+Mimi gives people fun and moral
 # React Meme Generator
 
 A simple react application to make your own memes.
