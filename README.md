@@ -1,4 +1,4 @@
-#Mimi is a piece of our life
+
 # React Meme Generator
 
 A simple react application to make your own memes.
