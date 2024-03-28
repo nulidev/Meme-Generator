@@ -3,7 +3,7 @@ import logo from "./logo2.svg";
 import MemeGenerator from "./components/MemeGenerator";
 import Footer from "./components/Footer";
 
-//this is my main component
+//this is my main component-as you can see
 class App extends Component {
   render() {
     return (
