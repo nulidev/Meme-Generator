@@ -1,5 +1,6 @@
 Mimi gives people fun and moral
 We can customize this code
+This project is not appreciate.
 # React Meme Generator
 
 A simple react application to make your own memes.
